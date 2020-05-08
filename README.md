@@ -20,7 +20,7 @@ mesmo ocorreu.
 17. Cada paciente deve ter registrado seu nome, CPF/CNPJ e endereço.
 18. O CPF é único para cada paciente.
 
-Modelo Lógico:https://drive.google.com/open?id=1c5hcfnE9zsbgv89YB2sjy0VisSE5OZuD
+Modelo Lógico: https://drive.google.com/open?id=1c5hcfnE9zsbgv89YB2sjy0VisSE5OZuD
 
 Perguntas:
 1- Quais médicos atendem aos planos A, B, C?
